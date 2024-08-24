@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template.listeners
+package com.github.sirnoname2705.localjsonschemacatalogimporter.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger
